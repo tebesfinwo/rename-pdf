@@ -2,9 +2,8 @@
 
 As suggested by its name, `rename-pdf` is binary renames a PDF file based on its title, sort of.
 
-Sometimes, name of a PDF file downloaded by the internet does not relate to its
-content at all, like, `123234.pdf`. `rename-pdf` renames automatically on your
-behalf without inspecting the content.
+Sometimes, name of a PDF file downloaded from the internet does not relate to its
+content at all, like, `123234.pdf`. `rename-pdf` renames automatically for you.
 
 ## Caveats / Things I haven't figured out or implemented yet
 
