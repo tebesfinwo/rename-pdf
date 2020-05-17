@@ -327,7 +327,6 @@ dependencies = [
 name = "rename-df"
 version = "0.1.0"
 dependencies = [
- "encoding",
  "lopdf",
 ]
 
