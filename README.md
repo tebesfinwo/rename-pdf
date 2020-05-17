@@ -10,8 +10,6 @@ content at all, like, `123234.pdf`. `rename-pdf` renames automatically for you.
 [ ] The new name is UGLY. If the title of the PDF is "A morning bird", `rename-pdf` will
 rename it to `amorningbird.pdf` instead of `a-morning-bird.pdf`
 
-[ ] The new name will contains any character in the title.
-
 [ ] Code is UGLY.
 
 ## Installation
