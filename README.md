@@ -16,6 +16,12 @@ rename it to `amorningbird.pdf` instead of `a-morning-bird.pdf`
 
 Clone this repository and `cargo build` or `cargo install` yourself.
 
+## How to use
+
+```
+rename-df 123123.pdf
+```
+
 ## License
 
 See [LICENSE-MIT](LICENSE-MIT) for details.
